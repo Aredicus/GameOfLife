@@ -1,2 +1,2 @@
 # Aredicus
-#I love Anastasy. And I don`t now, why everything is like this
+#This is my realisation of Game of life
